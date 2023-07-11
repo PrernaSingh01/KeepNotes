@@ -95,8 +95,9 @@ button.learn-more .circle .icon.arrow::before {
   top: -0.25rem;
   right: 0.0625rem;
   width: 0.625rem;
-  border-top: 0.125rem solid #fff;
+  border-top: 0.125rem solid #ffffff;
   border-right: 0.125rem solid #fff;
+
   transform: rotate(45deg);
 }
 
