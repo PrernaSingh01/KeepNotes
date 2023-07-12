@@ -2,6 +2,8 @@
 
 Keep Notes is a simple web application that allows users to create and manage notes. It is built using HTML, CSS, and JavaScript.
 
+## Live: https://prernasingh01.github.io/KeepNotes/
+
 ## Features
 
 1. Add new notes: Users can click on the "Add note" button to create a new note. The note will be displayed as a textarea initially, allowing the user to input their content.
@@ -23,6 +25,9 @@ git clone https://github.com/your-username/keep-notes.git
 4. To edit a note, click on the edit button (pencil icon) and modify the content in the textarea.
 5. To delete a note, click on the delete button (trash can icon).
 6. The notes will be saved automatically in the browser's local storage.
+
+ ## Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
    
  ## License
  
